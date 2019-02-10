@@ -33,6 +33,6 @@
     "url-parse": "^1.4.4"
   },
   "bin": {
-    "creator": "./index.js"
+    "mfadhil": "./index.js"
   }
 }
